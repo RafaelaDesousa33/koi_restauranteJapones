@@ -4,6 +4,8 @@ Projeto de um site moderno para um restaurante japonês, desenvolvido com foco e
 
 O site apresenta informações sobre o restaurante, cardápio, pratos em destaque e uma interface visual inspirada na cultura japonesa.
 
+<img src="koi_restauranteJapones.png" alt="imagem do projeto">
+
 ## Tecnologias utilizadas
 
 * HTML5
